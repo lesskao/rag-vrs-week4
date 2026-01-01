@@ -1,0 +1,18 @@
+# 核心依赖
+openai>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# 向量数据库
+pymilvus>=2.3.0
+qdrant-client>=1.7.0
+chromadb>=0.4.0
+
+# Embedding 和检索
+sentence-transformers>=2.2.0
+rank-bm25>=0.2.2
+
+# 工具库
+numpy>=1.24.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
